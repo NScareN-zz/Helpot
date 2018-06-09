@@ -1,0 +1,2 @@
+# Helpot
+Bot for Discord
